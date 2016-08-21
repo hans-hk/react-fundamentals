@@ -30,6 +30,12 @@ module.exports = {
 
     plugins: [
         new webpack.HotModuleReplacementPlugin()
-    ]
+    ],
+
+    resolve: {
+        root: path.resolve('./src')
+    }
+
+
 
 };

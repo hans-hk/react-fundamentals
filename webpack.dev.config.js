@@ -59,7 +59,13 @@ module.exports = {
                 exclude: /node_modules/,
             }
         ]
+    },
+
+    resolve: {
+        root: path.resolve('./src')
     }
+
+
 
 
 };
