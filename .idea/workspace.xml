@@ -2,64 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77a5cf39-8d57-4e6d-a951-bdd205bfbbed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpack.dev.config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/webpack" afterPath="$PROJECT_DIR$/node_modules/.bin/webpack" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/webpack-dev-server" afterPath="$PROJECT_DIR$/node_modules/.bin/webpack-dev-server" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/.bin/babylon" afterPath="$PROJECT_DIR$/node_modules/babel-core/node_modules/.bin/babylon" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/.bin/json5" afterPath="$PROJECT_DIR$/node_modules/babel-core/node_modules/.bin/json5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/babel-generator/node_modules/.bin/detect-indent" afterPath="$PROJECT_DIR$/node_modules/babel-core/node_modules/babel-generator/node_modules/.bin/detect-indent" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/babel-generator/node_modules/detect-indent/node_modules/.bin/repeating" afterPath="$PROJECT_DIR$/node_modules/babel-core/node_modules/babel-generator/node_modules/detect-indent/node_modules/.bin/repeating" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/babel-register/node_modules/.bin/mkdirp" afterPath="$PROJECT_DIR$/node_modules/babel-core/node_modules/babel-register/node_modules/.bin/mkdirp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/babel-register/node_modules/home-or-tmp/node_modules/.bin/user-home" afterPath="$PROJECT_DIR$/node_modules/babel-core/node_modules/babel-register/node_modules/home-or-tmp/node_modules/.bin/user-home" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/babel-traverse/node_modules/invariant/node_modules/.bin/loose-envify" afterPath="$PROJECT_DIR$/node_modules/babel-core/node_modules/babel-traverse/node_modules/invariant/node_modules/.bin/loose-envify" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-loader/node_modules/.bin/mkdirp" afterPath="$PROJECT_DIR$/node_modules/babel-loader/node_modules/.bin/mkdirp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-loader/node_modules/loader-utils/node_modules/.bin/json5" afterPath="$PROJECT_DIR$/node_modules/babel-loader/node_modules/loader-utils/node_modules/.bin/json5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-block-scoping/node_modules/babel-template/node_modules/.bin/babylon" afterPath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-block-scoping/node_modules/babel-template/node_modules/.bin/babylon" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-block-scoping/node_modules/babel-traverse/node_modules/.bin/babylon" afterPath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-block-scoping/node_modules/babel-traverse/node_modules/.bin/babylon" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-block-scoping/node_modules/babel-traverse/node_modules/invariant/node_modules/.bin/loose-envify" afterPath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-block-scoping/node_modules/babel-traverse/node_modules/invariant/node_modules/.bin/loose-envify" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-classes/node_modules/babel-template/node_modules/.bin/babylon" afterPath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-classes/node_modules/babel-template/node_modules/.bin/babylon" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-classes/node_modules/babel-traverse/node_modules/.bin/babylon" afterPath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-classes/node_modules/babel-traverse/node_modules/.bin/babylon" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-classes/node_modules/babel-traverse/node_modules/invariant/node_modules/.bin/loose-envify" afterPath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-classes/node_modules/babel-traverse/node_modules/invariant/node_modules/.bin/loose-envify" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-computed-properties/node_modules/babel-template/node_modules/.bin/babylon" afterPath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-computed-properties/node_modules/babel-template/node_modules/.bin/babylon" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-duplicate-keys/node_modules/babel-types/node_modules/babel-traverse/node_modules/.bin/babylon" afterPath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-duplicate-keys/node_modules/babel-types/node_modules/babel-traverse/node_modules/.bin/babylon" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-function-name/node_modules/babel-types/node_modules/babel-traverse/node_modules/.bin/babylon" afterPath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-function-name/node_modules/babel-types/node_modules/babel-traverse/node_modules/.bin/babylon" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-modules-amd/node_modules/babel-template/node_modules/.bin/babylon" afterPath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-modules-amd/node_modules/babel-template/node_modules/.bin/babylon" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-modules-commonjs/node_modules/babel-template/node_modules/.bin/babylon" afterPath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-modules-commonjs/node_modules/babel-template/node_modules/.bin/babylon" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-modules-commonjs/node_modules/babel-types/node_modules/babel-traverse/node_modules/.bin/babylon" afterPath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-modules-commonjs/node_modules/babel-types/node_modules/babel-traverse/node_modules/.bin/babylon" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-modules-systemjs/node_modules/babel-template/node_modules/.bin/babylon" afterPath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-modules-systemjs/node_modules/babel-template/node_modules/.bin/babylon" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-modules-umd/node_modules/babel-template/node_modules/.bin/babylon" afterPath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-modules-umd/node_modules/babel-template/node_modules/.bin/babylon" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-parameters/node_modules/babel-template/node_modules/.bin/babylon" afterPath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-parameters/node_modules/babel-template/node_modules/.bin/babylon" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-parameters/node_modules/babel-traverse/node_modules/.bin/babylon" afterPath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-parameters/node_modules/babel-traverse/node_modules/.bin/babylon" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-parameters/node_modules/babel-traverse/node_modules/invariant/node_modules/.bin/loose-envify" afterPath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-parameters/node_modules/babel-traverse/node_modules/invariant/node_modules/.bin/loose-envify" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-sticky-regex/node_modules/babel-types/node_modules/babel-traverse/node_modules/.bin/babylon" afterPath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-sticky-regex/node_modules/babel-types/node_modules/babel-traverse/node_modules/.bin/babylon" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-unicode-regex/node_modules/regexpu-core/node_modules/.bin/regjsparser" afterPath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-unicode-regex/node_modules/regexpu-core/node_modules/.bin/regjsparser" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-unicode-regex/node_modules/regexpu-core/node_modules/regjsparser/node_modules/.bin/jsesc" afterPath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-es2015-unicode-regex/node_modules/regexpu-core/node_modules/regjsparser/node_modules/.bin/jsesc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-regenerator/node_modules/.bin/babylon" afterPath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-regenerator/node_modules/.bin/babylon" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-regenerator/node_modules/babel-traverse/node_modules/invariant/node_modules/.bin/loose-envify" afterPath="$PROJECT_DIR$/node_modules/babel-preset-es2015/node_modules/babel-plugin-transform-regenerator/node_modules/babel-traverse/node_modules/invariant/node_modules/.bin/loose-envify" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/node_modules/.bin/loose-envify" afterPath="$PROJECT_DIR$/node_modules/react/node_modules/.bin/loose-envify" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/express/node_modules/send/node_modules/.bin/mime" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/express/node_modules/send/node_modules/.bin/mime" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/webpack-dev-middleware/node_modules/.bin/mime" afterPath="$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/webpack-dev-middleware/node_modules/.bin/mime" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/.bin/acorn" afterPath="$PROJECT_DIR$/node_modules/webpack/node_modules/.bin/acorn" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/.bin/mkdirp" afterPath="$PROJECT_DIR$/node_modules/webpack/node_modules/.bin/mkdirp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/.bin/uglifyjs" afterPath="$PROJECT_DIR$/node_modules/webpack/node_modules/.bin/uglifyjs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/loader-utils/node_modules/.bin/json5" afterPath="$PROJECT_DIR$/node_modules/webpack/node_modules/loader-utils/node_modules/.bin/json5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/memory-fs/node_modules/.bin/errno" afterPath="$PROJECT_DIR$/node_modules/webpack/node_modules/memory-fs/node_modules/.bin/errno" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/.bin/sha.js" afterPath="$PROJECT_DIR$/node_modules/webpack/node_modules/node-libs-browser/node_modules/crypto-browserify/node_modules/.bin/sha.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/watchpack/node_modules/chokidar/node_modules/fsevents/node_modules/.bin/har-validator" afterPath="$PROJECT_DIR$/node_modules/webpack/node_modules/watchpack/node_modules/chokidar/node_modules/fsevents/node_modules/.bin/har-validator" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/watchpack/node_modules/chokidar/node_modules/fsevents/node_modules/.bin/mkdirp" afterPath="$PROJECT_DIR$/node_modules/webpack/node_modules/watchpack/node_modules/chokidar/node_modules/fsevents/node_modules/.bin/mkdirp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/watchpack/node_modules/chokidar/node_modules/fsevents/node_modules/.bin/node-pre-gyp" afterPath="$PROJECT_DIR$/node_modules/webpack/node_modules/watchpack/node_modules/chokidar/node_modules/fsevents/node_modules/.bin/node-pre-gyp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/watchpack/node_modules/chokidar/node_modules/fsevents/node_modules/.bin/nopt" afterPath="$PROJECT_DIR$/node_modules/webpack/node_modules/watchpack/node_modules/chokidar/node_modules/fsevents/node_modules/.bin/nopt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/watchpack/node_modules/chokidar/node_modules/fsevents/node_modules/.bin/rc" afterPath="$PROJECT_DIR$/node_modules/webpack/node_modules/watchpack/node_modules/chokidar/node_modules/fsevents/node_modules/.bin/rc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/watchpack/node_modules/chokidar/node_modules/fsevents/node_modules/.bin/rimraf" afterPath="$PROJECT_DIR$/node_modules/webpack/node_modules/watchpack/node_modules/chokidar/node_modules/fsevents/node_modules/.bin/rimraf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/watchpack/node_modules/chokidar/node_modules/fsevents/node_modules/.bin/semver" afterPath="$PROJECT_DIR$/node_modules/webpack/node_modules/watchpack/node_modules/chokidar/node_modules/fsevents/node_modules/.bin/semver" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/watchpack/node_modules/chokidar/node_modules/fsevents/node_modules/.bin/sshpk-conv" afterPath="$PROJECT_DIR$/node_modules/webpack/node_modules/watchpack/node_modules/chokidar/node_modules/fsevents/node_modules/.bin/sshpk-conv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/watchpack/node_modules/chokidar/node_modules/fsevents/node_modules/.bin/sshpk-sign" afterPath="$PROJECT_DIR$/node_modules/webpack/node_modules/watchpack/node_modules/chokidar/node_modules/fsevents/node_modules/.bin/sshpk-sign" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/watchpack/node_modules/chokidar/node_modules/fsevents/node_modules/.bin/sshpk-verify" afterPath="$PROJECT_DIR$/node_modules/webpack/node_modules/watchpack/node_modules/chokidar/node_modules/fsevents/node_modules/.bin/sshpk-verify" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/watchpack/node_modules/chokidar/node_modules/fsevents/node_modules/.bin/strip-json-comments" afterPath="$PROJECT_DIR$/node_modules/webpack/node_modules/watchpack/node_modules/chokidar/node_modules/fsevents/node_modules/.bin/strip-json-comments" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/webpack/node_modules/watchpack/node_modules/chokidar/node_modules/fsevents/node_modules/.bin/uuid" afterPath="$PROJECT_DIR$/node_modules/webpack/node_modules/watchpack/node_modules/chokidar/node_modules/fsevents/node_modules/.bin/uuid" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/models/account.js" afterPath="$PROJECT_DIR$/server/models/account.js" />
     </list>
     <ignored path="react-fundamentals.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -81,54 +25,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/App.js">
+      <file leaf-file-name="account.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/routes/account.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+            <state relative-caret-position="637">
+              <caret line="131" column="0" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
               <folding>
-                <element signature="e#0#26#0" expanded="true" />
+                <element signature="e#0#30#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ContactInfo.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/ContactInfo.js">
+      <file leaf-file-name="account.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/models/account.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-              <folding />
+            <state relative-caret-position="315">
+              <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/routes/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="webpack.dev.config.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webpack.dev.config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="64" column="2" selection-start-line="64" selection-start-column="2" selection-end-line="64" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webpack.config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-              <folding />
+            <state relative-caret-position="90">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -136,34 +64,12 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" column="27" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
+            <state relative-caret-position="517">
+              <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
                 <element signature="e#247#279#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Contact.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Contact.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="68" column="62" selection-start-line="68" selection-start-column="62" selection-end-line="68" selection-end-column="62" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ContactDetails.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/ContactDetails.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -187,6 +93,9 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/webpack.dev.config.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/server/routes/index.js" />
+        <option value="$PROJECT_DIR$/server/models/account.js" />
+        <option value="$PROJECT_DIR$/server/routes/account.js" />
         <option value="$PROJECT_DIR$/server/main.js" />
       </list>
     </option>
@@ -209,13 +118,40 @@
             <id />
           </State>
           <State>
+            <id>ActionScript specificJavaScript</id>
+          </State>
+          <State>
             <id>Android</id>
           </State>
           <State>
             <id>Android Lint</id>
           </State>
           <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
             <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
           </State>
           <State>
             <id>GSPGrailsGroovy</id>
@@ -224,10 +160,28 @@
             <id>General</id>
           </State>
           <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
             <id>GrailsGroovy</id>
           </State>
           <State>
             <id>Groovy</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Language Injection</id>
           </State>
           <State>
             <id>LintAndroid</id>
@@ -236,7 +190,22 @@
             <id>Maven</id>
           </State>
           <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Node.jsJavaScript</id>
+          </State>
+          <State>
             <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
           </State>
           <State>
             <id>XPath</id>
@@ -349,6 +318,42 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-fundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-fundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-fundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-fundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -361,7 +366,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-codelab-project" />
@@ -800,12 +805,12 @@
       <option name="presentableId" value="Default" />
       <updated>1471363524067</updated>
       <workItem from="1471363526226" duration="1373000" />
-      <workItem from="1471365053639" duration="6887000" />
+      <workItem from="1471365053639" duration="7793000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8260000" />
+    <option name="totallyTimeSpent" value="9166000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="960" height="1173" extended-state="0" />
@@ -921,14 +926,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/ContactInfo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="237">
@@ -937,10 +934,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.dev.config.js">
+    <entry file="file://$PROJECT_DIR$/server/models/memo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="64" column="2" selection-start-line="64" selection-start-column="2" selection-end-line="64" selection-end-column="2" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/memo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -953,18 +958,72 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.dev.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" column="2" selection-start-line="64" selection-start-column="2" selection-end-line="64" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="120">
           <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/ContactInfo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintrc.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/models/account.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/account.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="131" column="0" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="27" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
+        <state relative-caret-position="517">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
             <element signature="e#247#279#0" expanded="true" />
